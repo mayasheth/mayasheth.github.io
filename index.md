@@ -1,3 +1,3 @@
-<link href="style.css" rel="stylesheet"></link> 
+<link href="main.css" rel="stylesheet">
 
 hello
