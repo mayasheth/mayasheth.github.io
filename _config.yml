@@ -2,3 +2,4 @@ name: Maya Sheth
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+site_url: https://mayasheth.github.io/
