@@ -4,8 +4,13 @@ title: Maya Sheth
 ---
 # hello.
 
-I don't know what to say here... [Link to creations page](./creations/index.md)
+## who i am
+* 22 year old human
+* asker of many questions (very skeptical)
+* big fan of dogs, sunshine, and coffee
+* also, science
 
-Let's try this:
+## this is a test
+
 <img src="_assets/explore.png" width="100">
 
