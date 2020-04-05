@@ -7,8 +7,6 @@ title: Maya Sheth
 I don't know what to say here... [Link to creations page](creations/index.md)
 
 Let's try this:
-![evolve](https://mayasheth.github.com/_assets/evolve.png)
-![explore](https://mayasheth.github.com/_assets/explore.png)
-![endure](https://mayasheth.github.com/_assets/endure.png)
+![explore](_assets/explore.png) ![evolve](_assets/evolve.png) ![endure](_assets/endure.png)
 
 
