@@ -18,7 +18,7 @@
       font-size:4em;
       font-weight:700;
       opacity:0.4;
-      line-height=0.8em;
+      line-height=0.8;
     }
     
     .cite
@@ -32,7 +32,7 @@
     .qmark
     {
       font-family: "Ellington", sans-serif;
-      font-size=10em;
+      font-size=30em;
       display: inline;
     }
   </style>
@@ -41,7 +41,10 @@
 
 <div class="quote"> 
   <blockquote>
-    "{{ include.words }}"
+     <p class="qmark">
+       "  
+     </p>
+    {{ include.words }}
   </blockquote>
   <p class="cite">
     - {{ include.source }}
