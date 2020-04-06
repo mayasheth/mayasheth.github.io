@@ -16,4 +16,4 @@ title: Maya Sheth
 <img src="assets/explore.png" width="100">
 
 ## test reporter?
-{% include quote.html words="this is a test quote" source="this is a test source"%}
+{% include quote.html words="progress in science depends on new techniques, new discoveries and new ideas, probably in that order." source="sydney brenner"%}
