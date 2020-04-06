@@ -14,11 +14,12 @@
       padding: 1em;
       position: relative;
       letter-spacing: -.08em;
-      font-size:1.3em;
+      font-size:4em;
+      font-weight:700;
       opacity:0.5
     }
     
-    cite
+    .cite
     {
       display: block;
       text-align: right;
@@ -30,8 +31,9 @@
 <div class="quote"> 
   <blockquote>
     {{ include.words }}
-    <cite>
-      - {{ include.source }}
-    </cite>
   </blockquote>
+  <p class="cite">
+      - {{ include.source }}
+  </p>
+
 </div> 
