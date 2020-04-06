@@ -15,4 +15,4 @@ title: Maya Sheth
 
 <img src="assets/explore.png" width="100">
 
-{% include quote.html quote="this is a test quote") %}
+{% include quote.html quote="this is a test quote" %}
