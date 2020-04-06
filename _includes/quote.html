@@ -3,8 +3,8 @@
 .quote {
  border:solid thin #d5d5d5;
 
-		padding:0;
-		margin:1em;
+		padding:0 0.5em 0 0;
+		margin:0;
 
 }
 blockquote {
@@ -17,8 +17,6 @@ cite {
       display: block;
       font-style: italic;
       text-align: right;
-      &:before {
-        content: "- ";
       }
     }
 	
@@ -29,7 +27,7 @@ cite {
 <blockquote>
 	{{ include.words }}
 <cite>
-	{{ include.source }}
+	- {{ include.source }}
 </cite>
 </blockquote>
 </div> 
