@@ -1,13 +1,27 @@
 <head>
 <style>
 .quote {
- border-style:solid;
-	border-color:#d5d5d5;
-		border-width:thin;
-		padding:1em;
+ border:solid thin #d5d5d5;
+
+		padding:0;
 		margin:1em;
 
 }
+blockquote {
+  display: inline-block;
+    margin: 0;
+    padding: 1em;
+    position: relative;
+	}
+cite {
+      display: block;
+      font-style: italic;
+      text-align: right;
+      &:before {
+        content: "- ";
+      }
+    }
+	
 </style>
 </head>
 
