@@ -11,12 +11,13 @@
     {
       display: inline-block;
       margin: 0;
-      padding: 1em;
+      padding:.5em;
+      padding-bottom:0;
       position: relative;
       letter-spacing: -.08em;
       font-size:4em;
       font-weight:700;
-      opacity:0.5
+      opacity:0.4;
     }
     
     .cite
@@ -33,7 +34,8 @@
     {{ include.words }}
   </blockquote>
   <p class="cite">
-      - {{ include.source }}
+    - {{ include.source }}
+    padding:.5em
   </p>
 
 </div> 
