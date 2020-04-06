@@ -12,5 +12,5 @@ title: Maya Sheth
 
 ## this is a test
 
-<img src="_assets/explore.png" width="100">
+<img src="assets/explore.png" width="100">
 
