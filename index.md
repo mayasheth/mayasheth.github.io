@@ -13,6 +13,6 @@ title: Maya Sheth
 ## this is a test
 
 <img src="assets/explore.png" width="100">
-{% include quote.html quote="hello" source="me" %}
+{% include quote.html quote="hello" %}
 
 
