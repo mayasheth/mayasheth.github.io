@@ -20,33 +20,29 @@
       opacity:0.4;
       line-height=0.8;
     }
+
+    blockquote:before 
+    {
+      content:  "\"";
+      /*font-family: "Times New Roman", serif;*/
+      font-size: 3em;
+      line-height: .5em;
+      margin-right: 0em;
+    }
     
-blockquote:before {
-  content:  "\"";
-  font-family: "Times New Roman", serif;
-  font-size: 3em;
-  line-height: 1em;
-  margin-right: 0em;
-  vertical-align: 0.1em;
-}
-blockquote p {
-  display: inline;
-}
+    blockquote p 
+    {
+      display: inline;
+    }
     
-    .cite
+    p.cite
     {
       display: block;
       text-align: right;
       font-variant:small-caps;
       padding:.5em
     }
-    
-    .qmark
-    {
-      font-family: "Times New Roman", serif;
-      font-size=50em;
-      /*display: inline;*/
-    }
+
   </style>
 </head>
 
@@ -55,6 +51,7 @@ blockquote p {
   <blockquote>
     {{ include.words }}
   </blockquote>
+  
   <p class="cite">
     - {{ include.source }}
   </p>
