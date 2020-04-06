@@ -9,7 +9,7 @@
     
     blockquote 
     {
-      display: inline-block;
+      /*display: inline-block;*/
       margin: 0;
       padding:.5em;
       padding-bottom:0;
@@ -20,6 +20,18 @@
       opacity:0.4;
       line-height=0.8;
     }
+    
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
     
     .cite
     {
