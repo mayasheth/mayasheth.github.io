@@ -1,37 +1,61 @@
 <head>
 <style>
-#quoteblock {
-  border-style: solid;
-  border-width: thin;
-  border-color: #333
-  padding: 15px;  
+.animated-border-quote {
+  display:inline-block;
+  margin:1em;
+  max-width:20em;
+  overflow:hidden;
+  blockquote {
+    background-color:$bg;
+    border: solid 2px #757575;
+    display: inline-block;
+    margin: 0;
+    padding: 1em;
+    position: relative;
+    &:before {
+      animation:clockwise 30s infinite linear;
+      background-color: $bg;
+      bottom:10%;
+      content: "";
+      left: 0;
+      opacity:.5;
+      position: absolute;
+      right: 0;
+      top:10%;
+    }
+    &:after {
+      animation:counter 30s infinite linear;
+      background-color: $bg;
+      bottom:10%;
+      content: "";
+      left: 0;
+      opacity:.5;
+      position: absolute;
+      right: 0;
+      top:10%;
+    }
+    cite {
+      display: block;
+      font-style: italic;
+      text-align: right;
+      &:before {
+        content: "- ";
+      }
+    }
+    > * {
+      position: relative;
+      z-index: 1;
+    }
+  }
 }
-  
-#quoteblock:before,
-#quoteblock:after {
-	position: absolute;
-	color: #f1efe6;
-	font-size: 8rem;
-	width: 4rem;
-	height: 4rem;
-}
-
-#quoteblock:before {
-	content: '“';
-	left: -5rem;
-	top: -2rem;
-}
-
-#quoteblock:after {
-	content: '”';
-	right: -5rem;
-	bottom: 1rem;
-}
-  
 </style>
 </head>
 
-<div id="quoteblock"> 
-<p id="words">{{ include.words }}</p>
-<p id="source">{{ include.source }}</p>
+<div class="animated-border-quote"> 
+<blockquote>
+	{{ include.words }}
+<cite>
+	{{ include.source }}
+<cite>
+</blockquote>
 </div> 
