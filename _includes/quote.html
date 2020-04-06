@@ -1,33 +1,37 @@
 <head>
-<style>
-.quote {
- border:solid thin #d5d5d5;
-
-		padding:0;
-		margin-bottom:1em;
-
-}
-blockquote {
-  display: inline-block;
-    margin: 0;
-    padding: 1em;
-    position: relative;
-	}
-cite {
-      display: block;
-      font-style: italic;
-      text-align: right;
-      }
+  <style>
+    .quote
+    {
+      border:solid thin #d5d5d5;
+      padding:0;
+      margin-bottom:1em;
     }
-	
-</style>
+    
+    blockquote 
+    {
+      display: inline-block;
+      margin: 0;
+      padding: 1em;
+      position: relative;
+      letter-spacing: -.08em;
+      font-size:1.3em;
+      opacity:0.5
+    }
+    
+    cite
+    {
+      display: block;
+      text-align: right;
+    }
+  </style>
 </head>
 
+
 <div class="quote"> 
-<blockquote>
-	{{ include.words }}
-<cite>
-	- {{ include.source }}
-</cite>
-</blockquote>
+  <blockquote>
+    {{ include.words }}
+    <cite>
+      - {{ include.source }}
+    </cite>
+  </blockquote>
 </div> 
