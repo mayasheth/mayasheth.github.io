@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Maya Sheth
+include: quote
+quote: this is a quote?
 ---
 # hello.
 
@@ -13,6 +15,4 @@ title: Maya Sheth
 ## this is a test
 
 <img src="assets/explore.png" width="100">
-{% include quote.html quote="hello" %}
-
 
