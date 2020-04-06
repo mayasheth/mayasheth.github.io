@@ -24,7 +24,14 @@
     {
       display: block;
       text-align: right;
+      font-variant:small-caps;
       padding:.5em
+    }
+    
+    .qmark
+    {
+      font-size=8em;
+      display: inline;
     }
   </style>
 </head>
@@ -32,6 +39,9 @@
 
 <div class="quote"> 
   <blockquote>
+    <p class="qmark">
+    \"  
+    </p>
     {{ include.words }}
   </blockquote>
   <p class="cite">
