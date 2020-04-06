@@ -18,6 +18,7 @@
       font-size:4em;
       font-weight:700;
       opacity:0.4;
+      line-height=0.8em;
     }
     
     .cite
@@ -40,10 +41,7 @@
 
 <div class="quote"> 
   <blockquote>
-     <p class="qmark">
-       "  
-     </p>
-    {{ include.words }}
+    "{{ include.words }}"
   </blockquote>
   <p class="cite">
     - {{ include.source }}
