@@ -11,9 +11,6 @@ title: Maya Sheth
 * big fan of dogs, sunshine, and coffee
 * also, science
 
-## this is a test
+---
 
-<img src="assets/explore.png" width="100">
-
-## test reporter?
 {% include quote.html words="progress in science depends on new techniques, new discoveries and new ideas, probably in that order." source="sydney brenner"%}
