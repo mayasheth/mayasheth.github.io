@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Open questions
+title: open questions
 
 ---
