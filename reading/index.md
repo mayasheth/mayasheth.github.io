@@ -2,8 +2,11 @@
 layout: default
 title: what i'm reading
 ---
-<h1>{{ page.title }}</h1>
-<h2> (and/or listening to, watching, discussing, etc.) </h2>
+# {{ page.title }}
+## (and/or listening to, watching, discussing, etc.)
+
+/For complete reading pipeline, check out my [Goodreads](https://www.goodreads.com/user/show/31600461-maya-sheth)./
+
 <ul class="posts">
 	
 	{% for post in site.categories.reading %}
