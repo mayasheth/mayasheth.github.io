@@ -1,0 +1,45 @@
+---
+layout: post
+title: “I read this cool thing the other day...”
+categories: review
+
+---
+
+This month: Rome, nature’s resilience, and organizing people & things.
+
+### Rome
+My life has touched Rome at all points in history in the past few weeks: from the ancient empire in [Gladiator](https://www.youtube.com/watch?v=lKn-Agk-yAI) to the Renaissance with [The Swerve: How the World Became Modern](https://www.amazon.com/Swerve-How-World-Became-Modern/dp/0393343405) and a [Nat Geo feature article](https://www.nationalgeographic.com/magazine/2019/05/leonardo-da-vinci-artistic-brilliance-endures-500-years-after-death/) on Da Vinci, to the 20th century physics and fascism scene explored in a new [biography of Enrico Fermi](https://www.amazon.com/Last-Man-Who-Knew-Everything/dp/0465072925), to my mom’s own plans to travel there next week— all roads really did lead to Rome.
+
+Aside from the unintentional coincidence, I don’t have too much more to say here. As Lucretius would say, merely “Understanding the nature of things generates deep wonder.” More to come on him, and maybe Epicureanism in general, next month!
+
+### Nature’s Resilience 
+**The big picture:** Nature may not be as helpless as we make it out to be. And maybe understanding this better can help us find new ways to be a little less destructively.
+
+A [feature article in Hakai Magazine](https://www.hakaimagazine.com/features/how-animals-code-their-kids-for-survival/) highlights one relatively unexplored biological tool: phenotypic plasticity. 
+* Inherited epigenetic modifications help baby reef fish survive better in hotter waters.
+* Changes in zebra finch calls depending on temperature change their chicks preferences to be better suited to the changing climate.
+The ability of animals to benefit from their parents’ experience is incredibly powerful— **but** they are able to respond much more effectively to gradual change, and current rapid  paces of change won’t slow down without us doing something. So, this sort of thing ideally will inspire hope and motivation rather than complacency. 
+
+In [Darwin Comes to Town: How the Urban Jungle Drives Evolution,](https://www.amazon.com/Darwin-Comes-Town-Jungle-Evolution/dp/1250127823) Menno Schiltluizen (don’t even ask how you say that) explores a similar theme, focusing more on examples of actual adaptation to anthropogenic pressures. By framing humans as ecosystem engineers just like beavers, termites, corals and the like, he reveals how cities create a massive diversity of ecosystems and niches. Urban areas contain a surprising amount of biodiversity: each garden, street crack, and park caters to some kind of life. 
+
+By highlighting the evolution (proven or suspected) of individual species — birds that sing at higher frequencies, invasive plants that have taken successfully colonized new continents, the classic color change of peppered moths — Schiltuizen sketches a new perspective on the relationship between humans and the rest of nature.  He argues that approaching conservation with an acceptance of the new state of the world and with the aim to preserve ecosystems rather than individual species, can harness the power of urban evolution to preserve species that are more likely to survive  in the long-term. 
+
+His ideas? Promote citizen science to monitor and better understand the phenomena. (Very likely— see, [Seek by iNaturalist](https://www.inaturalist.org/pages/seek_app)). Leave urban “gardens” open to be colonize by what ever takes root. (Not so likely, as long as lawns continue to be the prid)
+
+### Organizing
+As we sit here doing 25 different things at once, we are all aware that multitasking—no matter how productive it may make us feel— doesn’t work. Daniel Levitin explains the physical, metabolic cost of multi-tasking in [The Organized Mind](https://www.amazon.com/Organized-Mind-Thinking-Straight-Information/dp/0147516315/ref=sr_1_1?keywords=the+organized+mind&qid=1558889454&s=books&sr=1-1), and offers a wide array of suggestions on how to work with, rather than against, the physiological organization of our mind. Some highlights: 
+* Organize things, papers, etc. in categories between 5 to 20 items for ease of storage and retrieval. If you have less, put the things into a “Misc.” category until more have accumulated. If you have more, split that group into sub-categories. 
+* The plural of anecdote is not data: when dealing with healthcare and other important information, apply some basic statistics and consider things like side effects and false positives. 
+* Externalize as much as possible to clear your mind: write things down, use physical objects as reminders, have designated locations for things you don’t want to lose.
+
+In [The Culture Code](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/0525492461), Daniel Coyle offers a concise framework for effectively organizing (leading, in normal words) people: building safety, sharing vulnerability, and establishing purpose. The book itself was really engaging and interesting, citing a bunch of cool studies and stories, so I’d definitely recommend listening or reading to the whole thing. Here are a few ideas he proposed that I’m most excited to try out:
+* To get feedback, ask three questions: What is one thing that I currently do that you’d like me to continue to do? What is one thing I don’t do frequently enough that I should do more? What (one thing) can I do to make you more effective?
+*  Listen like a trampoline: add insight, discover together. 
+* 	Aim for candor; avoid brutal honesty. 
+* Identify when you’re working for proficiency, and when you’re working for creativity. Curate actions accordingly. 
+* Overcommunicate expectations, overdo thank yous, and be ultra-clear about priorities. 
+
+### Findings [inspired by Harper’s Magazine]
+* [The word “lox”](http://m.nautil.us/blog/the-english-word-that-hasnt-changed-in-sound-or-meaning-in-8000-years) hasn’t changed sound or meaning in English for 8000 years (that’s the longest ever).  
+* People in the Himalayas [build artificial glaciers](https://www.newyorker.com/magazine/2019/05/20/the-art-of-building-artificial-glaciers?utm_campaign=aud-dev&utm_source=nl&utm_brand=tny&utm_mailing=TNY_Magazine_Daily_051319&utm_medium=email&bxid=5c887e607e553f23b6032de0&cndid=56688503&esrc=&utm_term=TNY_Daily), or ice stupas, to supply fresh water and irrigation. They’re really cool.
+* A paper came out that uses a new approach to machine learning that reveals mechanistic insights into biological phenomena: with their [“white-box” method](https://www.sciencedirect.com/science/article/pii/S0092867419304027#bib40), they first map input data onto network pathways, then feed that to the hidden “black-box” layers. 
