@@ -5,7 +5,7 @@ title: what i'm reading
 # {{ page.title }}
 ## (and/or listening to, watching, discussing, etc.)
 
-/For complete reading pipeline, check out my [Goodreads](https://www.goodreads.com/user/show/31600461-maya-sheth)./
+_For complete reading pipeline, check out my [Goodreads](https://www.goodreads.com/user/show/31600461-maya-sheth)._
 
 <ul class="posts">
 	
