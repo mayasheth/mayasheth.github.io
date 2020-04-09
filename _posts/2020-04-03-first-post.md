@@ -1,7 +1,36 @@
 ---
 layout: post
-title: "First post"
-date: 2020-04-03
+title: "What we think about when we think about climate change"
+categories: review
+date: 2019-03-30
 ---
+## What we think about when we think about climate change
 
-Test content for first post
+Welcome to my first (and maybe only) monthly mind dump! I found these things I heard, read, and thought about kinda interesting, and wanted to share. This month: some words on climate change, if & how our individual choices can make a difference, why it’s so hard to worry about, and some attempts at hope for the future.
+
+### Should I really feel good about using my metal straws?
+* On the podcast [Still Processing](https://www.nytimes.com/2019/03/14/podcasts/still-processing-circulars-climate-change.html), NYT contributor Wesley Morris talked about his constant struggle to stop getting the “circular” (those stacks of ads wrapped in plastic and delivered like a newspaper), because the excessive waste it generated didn’t align with his attempts at an ethical lifestyle. Ironically, I was walking behind a van tossing these circulars out as I listened to the podcast. I resonated with this reasoning: I go to somewhat extreme lengths to minimize my environmental impact, whether by driving as little as possible, refusing single-use plastic, or buying vegan treats for my puppy. And I get a certain sense of moral satisfaction everything I do something like this—like I’m doing my part, at least, to fight the good fight against climate change. 
+* Enter, David Wallace-Wells, journalist for the New York Magazine and most recently, author of [The Uninhabitable Earth](https://www.penguinrandomhouse.com/books/586541/the-uninhabitable-earth-by-david-wallace-wells/9780525576709/), a terrifying tour of the “hellscape” of our planet after 2 degrees of warming. Wallace-Wells (who interestingly has a brother, Benjamin, who writes for The New Yorker), had some news for people like Morris and me: our righteous individual actions don’t really do shit. Even if every American magically made similar choices, it wouldn’t make a difference, because we’re all still operating in a system where every item relies, in some way, on carbon-emitting processes. There are so many striking statistics that convey this, and I’ll share two that I found particularly awful:
+	* 70% of electricity in the US is lost on the way to your house. That is, the grid is a mere 30% efficient. 
+	* One seat on a round-trip flight between NYC and London is the equivalent of melting 2 tons of ice. One seat! 
+* So, pretty much the only way to make a difference is sweeping systemic change, which is probably, unfortunately, terrifyingly dependent on sweeping political change. (Also, maybe justification for a benevolent dictator.) In fact, Wallace-Wells suggests that the minuscule choices that give me so much satisfaction actually distract from efforts to enact larger-scale change, and thus may have a net negative impact. 
+* I coincidentally read another article on this same issue, pretty much summed up by its title: [It’s impossible to lead a totally ethical life — but it’s fun to try](https://qz.com/1327804/its-impossible-to-lead-a-totally-ethical-life-but-its-fun-to-try/). Things are just a lot more complicated than they seem, and as you expand the scope of your consideration, you begin to see the complexity and inadvertent affects of your so-called “ethical” actions. By buying cotton clothes, for example, you may be saving silkworms, but you’re also significantly contributing to [deforestation, nutrient runoff, and a whole host of other impacts](https://qz.com/quartzy/1543323/the-ethical-case-for-wearing-leather-fur-and-silk/). 
+* In summary: Yes, I can feel good when I use my metal straw; it’s a truly responsible decision in some limited definition of the context. But no, it’s not enough. Doing enough means stepping beyond the bubble of individuality and working towards systemic change with more people. It begs the question…
+
+### How do we get people to care — and why don’t they already?
+* Carbon dioxide is invisible, and so is climate change.  As Wallace-Wells suggests, it’s a lot easier to feel terrible about tons of ocean plastic clogging the oceans than the pervasive and exponentially more harmful emissions of an unseeable gas.
+* The evocation of psychologist Daniel Kahneman in this discussion of human cognitive biases should not be a surprise.  In a recent [interview with Dr. Sam Harris](https://samharris.org/podcasts/150-map-misunderstanding/), Kahneman cites the abstract, impersonal, incremental and uncertain nature of climate change making it potentially the most difficult problem we face as humans — because it’s so hard for us to worry about.  We respond most strongly to stories, and especially to stories  identifiable victims. Public perception of climate change impact has long lacked a clear narrative (aside from the lone polar bear stranded on a diminishing ice floe, of course). 
+* I guess the inertial influence and power of fossil fuel industry et al. don’t help, either. 
+
+### There’s hope!
+* IF YOU VOTE IN NOVEMBER. Political solutions (Carbon tax? Renewables? Need to learn more about what these actually are.) are important and essential. And possible. If you vote.
+* Don’t worry, though. New tech and ideas can have exponential impacts semi-independently of politics. Clean meat and cellular agriculture are particularly exciting examples (and not just things like [Impossible Foods](https://impossiblefoods.com/) or [Beyond Burger](https://www.beyondmeat.com/) for people! [Wild Earth](https://wildearth.com/) is making soy-derived dog food that  Laguna, at least, is a fan of.)
+* Finally, here are those those personal stories that we love so much, and anecdotal evidence that there’s hope for humanity yet: [seven profiles](https://www.nytimes.com/interactive/2019/03/26/climate/wind-solar-energy-workers.html) of Americans who grew around fossil fuels, and now work in renewables. 
+
+### MISC — Other interesting articles, quotes, and questions
+* Would you rather have good experiences or good memories? What would you wish for your loved ones? [From the Sam Harris interview of Daniel Kahneman]
+* “Have strong views, weakly held.” [From [an interview of venture capitalist and Internet inventor, Marc Andressen](https://itunes.apple.com/us/podcast/the-moment-with-brian-koppelman/id814550071?mt=2&i=1000431636269), on creativity and innovation]
+* [This NYT article on precrastination](https://www.nytimes.com/2019/03/25/smarter-living/precrastination-when-the-early-bird-gets-the-shaft.html) was great. *Precrastination* is defined as the tendency to do things as soon as possible, even at the expense of extra effort. This is totally something I do. I think it runs in the family. 
+* (Random, but cool.) Conventional wisdom holds that the least interaction a costumer has with a process (and the less effortful they think it is), the better. But [this article on operational transparency](https://hbr.org/2019/03/operational-transparency) suggests that more interaction and knowledge of what’s going on behind the scenes actually leads to improved satisfaction and outcomes on both sides — whether it’s watching a chef cook your dinner, or watching the little updates that your computer gives you as it restarts. To come full circle, maybe this is another way to frame and motivate science communication: creating greater awareness of just how much our environment does for us, could increase appreciation and  value for ecosystem services.
+
+Well, that’s it for this month (and maybe forever, who knows). Thanks to anyone who made it this far, and please let me know what you think! 
