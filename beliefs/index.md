@@ -3,6 +3,8 @@ layout: default
 title: beliefs
 
 ---
+# beliefs
+Please, feel free: change my mind. 
 
 ## 1. _climate change is violence._
 * From Rebecca Solnit's _Encyclopedia of Trouble and Spaciousness_:
