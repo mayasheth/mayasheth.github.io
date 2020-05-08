@@ -1,7 +1,7 @@
-
 ---
 layout: default
 title: beliefs
+
 ---
 
 ## 1. _climate change is violence._
