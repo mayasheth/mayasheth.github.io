@@ -14,3 +14,5 @@ title: Maya Sheth
 ---
 
 {% include quote.html words="progress in science depends on new techniques, new discoveries and new ideas, probably in that order." source="sydney brenner"%}
+
+{% include quote.html words="what i cannot create, i do not understand." source="richard feynman"%}
