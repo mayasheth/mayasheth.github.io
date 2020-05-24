@@ -20,5 +20,3 @@ title: Maya Sheth
 {% include quote.html words="what i cannot create, i do not understand." source="richard feynman"%}
 
 ---
-
-{% include quote.html words="to explore is to travel without a hypothesis." source="don walsh"%}
