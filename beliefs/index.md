@@ -22,3 +22,8 @@ Please, feel free: change my mind.
 #### updated 05-08-2020
 * From Carlo Rovelli's _Reality Is Not What It Seems_... If physically, fundamental particles can only be observed via their interactions with other particles, why should the concept not apply at the macro-scale? Are we humans really individuals, or a manifestation of a "distributed ecosystem"?
 * Alternatively, from the point of view of Miguel Nicolelis in _The True Creator of Everything_, reality arises from the interaction of our brains with sensory world. For example, as he quotes Marcelo Gleiser in _The Island of Knowledge_, "Mass and charge do not exist, per se: they only exist as a part of a narrative we humans construct to describe the natural world."
+
+## 4. _"to explore is to travel without a hypothesis."_
+#### updated 05-23-2020
+* (Quoted, apparantly, from Don Walsh, descender of the Mariana Trench). Yeah, I buy it. 
+* Speaks metaphorically, as well, to the hypothesis-generating approach to science, as opposed to conventional hypothesis testing. In our world of near infinite data, where it is so easy to accidentally (or not) find "significance," approaching an experiment with no expectations is so critical. I liked what [Jeff Lichtman](http://nautil.us/issue/81/maps/an-existential-crisis-in-neuroscience) had to say about this a few months ago. 
