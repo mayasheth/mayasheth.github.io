@@ -6,8 +6,10 @@ title: open questions
 
 # open questions
 
-## 1. _is it "better" to use paper or plastic bags?_
-#### asked & updated 05-08-2020
+## 1. _is it "better" to use paper, plastic, or reusable bags?_
+#### asked & updated 05-31-2020
+* The gist of it: use whatever kind you'll use the most.
+* Paper bags are more energy-intensive to produce and often aren't made out of recycled paper, but they can be recycled or composted at their end-of-life. Plastic bags are pretty efficient to make and can be recycled, but rarely are, and require petroleum to be produced. Reusable bags made of cotton are very energy and water-intensive to make, but can be reused a lot. The environmental impact of your bag therefore depends on on the specific material and how it was sourced, how many times it is re-used, and how it is disposed of. See [here](https://stanfordmag.org/contents/paper-plastic-or-reusable) and [here](https://www2.mst.dk/Udgiv/publications/2018/02/978-87-93614-73-4.pdf) for some details. 
 
 ## 2. _how natural is a GMO?_
 #### asked & updated 05-23-2020
