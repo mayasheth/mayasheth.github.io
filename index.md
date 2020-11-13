@@ -19,4 +19,3 @@ title: Maya Sheth
 
 {% include quote.html words="what i cannot create, i do not understand." source="richard feynman"%}
 
----
