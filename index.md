@@ -10,6 +10,7 @@ title: Maya Sheth
 * asker of many questions (very skeptical)
 * big fan of dogs, sunshine, and coffee
 * also, science
+* my [values](https://mayasheth.github.io/2020/11/20/values)
 
 ---
 
