@@ -7,7 +7,8 @@ title: open questions
 # open questions
 
 ## 1. _does it matter whether I to use paper, plastic, or reusable bags? and other choices with ambiguous environmental impacts.
-#### asked & updated 11-22-2020
+#### asked 05-22-2020
+#### updated 11-22-2020
 * The gist of it: most choices suck, and our individual changes won't really do much. Stick to the classic advice and reduce, reuse, and recycle, in that order.
 * **_Inconspicuous Consumption: The Environmental Impact You Don't Know You Have_ by Tatiana Schlossberg** addresses this question well. Her concluding advice?
   * We use things because we can, with little regard for consequences for environment, and other people
@@ -27,9 +28,14 @@ title: open questions
 * ...especially given how widespread gene transfer is in the history of life? Our mitochondria aren't really "human"... We are able to develop placentae by "repurposing genes that an invading virus used to make a protective membrane around itself." Thus, human-induced GMOs might really just be one instance of an entirely natural instance of life.
 
 ## 3. _do we have free will? what even does that mean?_
+#### asked 11-22-2020
 
 ## 4. _what traits, if any, distinguish humans from other forms of intelligent life?_
+#### asked 11-22-2020
 
 ## 5. _do our lives have a higher purpose? what does that mean, regardless the answer?_
+#### asked 11-22-2020
 
 ## 6. _which to prioritize- pleasure in the moment, or when viewed in retrospect?_
+#### asked 11-22-2020
+
