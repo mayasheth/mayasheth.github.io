@@ -32,4 +32,4 @@ title: open questions
 
 ## 5. _do our lives have a higher purpose? what does that mean, regardless the answer?_
 
-## 6. which to prioritize- pleasure in the moment, or when viewed in retrospect?_
+## 6. _which to prioritize- pleasure in the moment, or when viewed in retrospect?_
