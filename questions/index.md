@@ -6,7 +6,7 @@ title: open questions
 
 # open questions
 
-## 1. _does it matter whether I to use paper, plastic, or reusable bags? and other choices with ambiguous environmental impacts._
+## 1. _does it matter whether I use paper, plastic, or reusable bags? and other choices with ambiguous environmental impacts._
 #### asked 05-22-2020, updated 11-22-2020
 * The gist of it: most choices suck, and our individual changes won't really do much. Stick to the classic advice and reduce, reuse, and recycle, in that order.
 * **_Inconspicuous Consumption: The Environmental Impact You Don't Know You Have_ by Tatiana Schlossberg** addresses this question well. Her concluding advice?
