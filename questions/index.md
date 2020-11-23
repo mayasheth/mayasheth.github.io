@@ -6,9 +6,8 @@ title: open questions
 
 # open questions
 
-## 1. _does it matter whether I to use paper, plastic, or reusable bags? and other choices with ambiguous environmental impacts.
-#### asked 05-22-2020
-#### updated 11-22-2020
+## 1. _does it matter whether I to use paper, plastic, or reusable bags? and other choices with ambiguous environmental impacts._
+#### asked 05-22-2020, updated 11-22-2020
 * The gist of it: most choices suck, and our individual changes won't really do much. Stick to the classic advice and reduce, reuse, and recycle, in that order.
 * **_Inconspicuous Consumption: The Environmental Impact You Don't Know You Have_ by Tatiana Schlossberg** addresses this question well. Her concluding advice?
   * We use things because we can, with little regard for consequences for environment, and other people
@@ -28,10 +27,14 @@ title: open questions
 * ...especially given how widespread gene transfer is in the history of life? Our mitochondria aren't really "human"... We are able to develop placentae by "repurposing genes that an invading virus used to make a protective membrane around itself." Thus, human-induced GMOs might really just be one instance of an entirely natural instance of life.
 
 ## 3. _do we have free will? what even does that mean?_
-#### asked 11-22-2020
+#### asked & updated 11-22-2020
+* To be honest, I hate this question. It's scary and confusing to think about. But I'll try...
+* When thinking about each action in isolation, our lives seem to be fundamentally governed by our neurochemistry; by the physics, chemistry, and electromagnetic forces that dictate how certain molecules trigger action potentials and the release of other neurotransmitters and changes in gene expression. But taking a step back, there is so much more that happens _before_ that: all the neurogenesis, synaptogenesis, pruning, development, neuroplasticity... the contributions of "nature" and "nurture" and stochasticity along with the physical forces. And all that is so complex, so chaotic and undefinable, that there must be some room for our own thoughts, our own "will" to influence the matter, however that may manifest.
+* I don't know. Part of me thinks it's pointless to go about things _not_ believing we have any efficacy or control over our actions. Might as well pretend, and give myself the chance? I don't know.
 
 ## 4. _what traits, if any, distinguish humans from other forms of intelligent life?_
-#### asked 11-22-2020
+#### asked  & updated 11-22-2020
+* The first things that come to mind are language, sophisticated technology, complex societal structures (civilization)... and the ability to _imagine_, to plan and prepare for abstract and distant (physically, temporally, realistically?) situations. Imagination seems to encompass the rest of them, giving motivation and purpose to the technology, to society, to have written forms of information to transmit knowledge across time and space. Imagination underlays literature, philosophy, even science (the ability to get very meta about our existence and biology)...
 
 ## 5. _do our lives have a higher purpose? what does that mean, regardless the answer?_
 #### asked 11-22-2020
