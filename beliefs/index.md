@@ -29,3 +29,6 @@ Please, feel free: change my mind.
 #### updated 05-23-2020
 * (Quoted, apparantly, from Don Walsh, descender of the Mariana Trench). Yeah, I buy it. 
 * Speaks metaphorically, as well, to the hypothesis-generating approach to science, as opposed to conventional hypothesis testing. In our world of near infinite data, where it is so easy to accidentally (or not) find "significance," approaching an experiment with no expectations is so critical. I liked what [Jeff Lichtman](http://nautil.us/issue/81/maps/an-existential-crisis-in-neuroscience) had to say about this a few months ago. 
+
+## 5. _the end justifies the means._
+#### updated 11-27-2020
