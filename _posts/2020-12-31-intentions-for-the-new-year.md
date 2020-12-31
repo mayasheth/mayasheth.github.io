@@ -1,9 +1,9 @@
+---
 layout: post
 title: Intentions for the New Year
 categories: review
 date: 2020-12-31
-
-—-
+---
 
 ### Resolutions? Intentions?
 
