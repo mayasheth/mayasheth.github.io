@@ -2,7 +2,7 @@
 
 llayout: post
 title: January 2021 Update
-categories: review
+categories: review, reading
 date: 2021-01-30
 
 ---
@@ -10,18 +10,12 @@ date: 2021-01-30
 This month has been quite the reading kick-off to 2021- being confined to my home has given me the opportunity to get through 26 books in their print, electronic and audio forms. I picked whatever I was in the mood for at the moment, and was pleasantly surprised by some of the interesting clusters that emerged:
 
 - Books about families in suburban America with significant trees involved
-
-    - [The Most Fun We Ever Had](https://www.notion.so/The-Most-Fun-We-Ever-Had-f685087c5ac14360b9fd4e8aaeea9769)
-
+    - *The Most Fun We Ever Had* - Claire Lombardo
     - *A Good Neighborhood* — Therese Anne Fowler
     - *White Elephant* — Julie Lanfsdorf
-
-    - [Fire in Paradise](https://www.notion.so/Fire-in-Paradise-f8c37b9ad64c4fc7a75e80fc6bc9400c)
-
+    - *[Fire in Paradise](https://mayasheth.github.io/2021/01/30/fire-in-paradise)*  - Alastair Gee
 - Books about the Muslim experience in America and circumstances driving immigration
-
-    - [Homeland Elegies](https://www.notion.so/Homeland-Elegies-0ff5e62d260449a8b6054386358b15f0)
-
+    - *Homeland Elegies* - Ayad Akhtar
     - *Mornings in Jenin* — Susan Abulhawa
     - *The Other Americans* — Laila Lalami
 - Books with Christian missionaries
@@ -31,6 +25,9 @@ This month has been quite the reading kick-off to 2021- being confined to my hom
     - *Dirt: Adventures, with Family, in the Kitchens of Lyon, Looking for the Origins of French Cooking* — Bill Buford
     - *Let the Northern Lights Erase Your Name* — Vendela Vida
     - *The Lovers* — Vendela Vida
+- Books discussing, at some point, the complexities of our sense of smell
+    - *[Proof: The Science of Booze](https://mayasheth.github.io/2021/01/20/proof)* - Adam Rogers
+    -*[The Reason for Flowers](https://mayasheth.github.io/2021/01/24/the-reason-for-flowers)* - Stephen L. Buchmann
 
 In other news... some of my favorite quote-of-the-days:
 
