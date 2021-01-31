@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fire in Paradise
+title: Fire in Paradise -- Alastair Gee
 subtitle: An American Tragedy
 categories: reading
 date: 2021-01-30
