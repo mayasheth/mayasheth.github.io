@@ -27,7 +27,7 @@ This month has been quite the reading kick-off to 2021- being confined to my hom
     - *The Lovers* — Vendela Vida
 - Books discussing, at some point, the complexities of our sense of smell
     - *[Proof: The Science of Booze](https://mayasheth.github.io/2021/01/20/proof)* - Adam Rogers
-    -*[The Reason for Flowers](https://mayasheth.github.io/2021/01/24/the-reason-for-flowers)* - Stephen L. Buchmann
+    - *[The Reason for Flowers](https://mayasheth.github.io/2021/01/24/the-reason-for-flowers)* - Stephen L. Buchmann
 
 In other news... some of my favorite quote-of-the-days:
 
