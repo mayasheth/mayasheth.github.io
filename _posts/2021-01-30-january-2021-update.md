@@ -11,16 +11,16 @@ This month has been quite the reading kick-off to 2021- being confined to my hom
 
 - Books about families in suburban America with significant trees involved
 
-    -[The Most Fun We Ever Had](https://www.notion.so/The-Most-Fun-We-Ever-Had-f685087c5ac14360b9fd4e8aaeea9769)
+    - [The Most Fun We Ever Had](https://www.notion.so/The-Most-Fun-We-Ever-Had-f685087c5ac14360b9fd4e8aaeea9769)
 
     - *A Good Neighborhood* — Therese Anne Fowler
     - *White Elephant* — Julie Lanfsdorf
 
-    -[Fire in Paradise](https://www.notion.so/Fire-in-Paradise-f8c37b9ad64c4fc7a75e80fc6bc9400c)
+    - [Fire in Paradise](https://www.notion.so/Fire-in-Paradise-f8c37b9ad64c4fc7a75e80fc6bc9400c)
 
 - Books about the Muslim experience in America and circumstances driving immigration
 
-    -[Homeland Elegies](https://www.notion.so/Homeland-Elegies-0ff5e62d260449a8b6054386358b15f0)
+    - [Homeland Elegies](https://www.notion.so/Homeland-Elegies-0ff5e62d260449a8b6054386358b15f0)
 
     - *Mornings in Jenin* — Susan Abulhawa
     - *The Other Americans* — Laila Lalami
