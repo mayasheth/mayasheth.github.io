@@ -76,56 +76,56 @@ date: 2021-01-24
         - Ex. Top notes = citruses; middle notes = rose, lavender; base notes = vanilla, musk
         - Creation of synthetic fragrances → leveled playing field for perfume companies, and helps protect endangered species like musk deer (?)
 
-    ### Flowers in Literature, Art, & Myth
+### Part 4: Flowers in Literature, Art, & Myth
 
-    - Floral references in the Bible actually pretty rare
-    - Origin of Western poetry about flowers = Greek: *anthology* = group of flowers
-    - Did Shakespeare ever see the flower species he writes about?
-    - Species that are written about in English poetry change over time, except for roses— ephemeral
-    - Asian tradition: extensive tradition of poetry/literature about flowers, but focus on themes of symbolic beauty, landscapes, love rather than ephemeral love/lust as in the West
-        - Ancient China → lyrical poems, about rural life, lots of symbols
-        - Japan → short poems, often syllable counts like haiku (usually focused on wit/rhetoric), waka
-    - Many songs written about/including flowers...
-    - *Depictions of flowers in art*
-        - No record of cave paintings with flowers
-        - Oldest examples are from Ancient Egypt
-        - Long tradition of floral images in Chinese and Japanese art; appeared in European art a little later (initially associated with death and pagan cultures)
-        - Dutch hyperrealist still-lifes
-        - Post Raphaelites → so many paintings of young girls with flowers!
-        - Then 1890s: Manet, Monet → moving away from realistic still life style; Monet painted flowers less for the flowers themselves than for the color & artistic exploration
-        - Many photographers— Ansel Adams, Maplethorpe, Robert Rice, J. Scott Peck, etc. (just a random selection of those mentioned!)
-        - More recently artists “photographing” using flatbed scanners
-    - Many coins and paper bills in currencies around the world include flowers
-    - Flowers on stamps
-    - Flower arranging
-        - Tons of bouquet offerings by ancient Egyptians to pharaohs
-        - Japanese art form ikebana (sp?)— four major styles
-    - Illuminated manuscripts in Europe → floral illustrations in marginalia, on letters (helped illiterate readers follow story by symbolism)
-    - Flowers in rugs (Persian, Indian, Chinese)
-    - Flowers in ceramics: earliest examples = tulip motif found on Minoan ceramics, then Chinese, Ottoman
-    - Newer forms of flower art:
-        - Scanning and 3D printing flowers, including molds for lost wax casting of bronze sculptures
-        - Glass art
-            - Most famous = Ware collection in Boston? Blashkas?
-            - Also Venetian style, millefiore (derived from “thousand flowers”, made with lots of very thin layers)
+- Floral references in the Bible actually pretty rare
+- Origin of Western poetry about flowers = Greek: *anthology* = group of flowers
+- Did Shakespeare ever see the flower species he writes about?
+- Species that are written about in English poetry change over time, except for roses— ephemeral
+- Asian tradition: extensive tradition of poetry/literature about flowers, but focus on themes of symbolic beauty, landscapes, love rather than ephemeral love/lust as in the West
+    - Ancient China → lyrical poems, about rural life, lots of symbols
+    - Japan → short poems, often syllable counts like haiku (usually focused on wit/rhetoric), waka
+- Many songs written about/including flowers...
+- *Depictions of flowers in art*
+    - No record of cave paintings with flowers
+    - Oldest examples are from Ancient Egypt
+    - Long tradition of floral images in Chinese and Japanese art; appeared in European art a little later (initially associated with death and pagan cultures)
+    - Dutch hyperrealist still-lifes
+    - Post Raphaelites → so many paintings of young girls with flowers!
+    - Then 1890s: Manet, Monet → moving away from realistic still life style; Monet painted flowers less for the flowers themselves than for the color & artistic exploration
+    - Many photographers— Ansel Adams, Maplethorpe, Robert Rice, J. Scott Peck, etc. (just a random selection of those mentioned!)
+    - More recently artists “photographing” using flatbed scanners
+- Many coins and paper bills in currencies around the world include flowers 
+- Flowers on stamps
+- Flower arranging
+    - Tons of bouquet offerings by ancient Egyptians to pharaohs
+    - Japanese art form ikebana (sp?)— four major styles
+- Illuminated manuscripts in Europe → floral illustrations in marginalia, on letters (helped illiterate readers follow story by symbolism)
+- Flowers in rugs (Persian, Indian, Chinese)
+- Flowers in ceramics: earliest examples = tulip motif found on Minoan ceramics, then Chinese, Ottoman
+- Newer forms of flower art:
+    - Scanning and 3D printing flowers, including molds for lost wax casting of bronze sculptures
+    - Glass art
+        - Most famous = Ware collection in Boston? Blashkas?
+        - Also Venetian style, millefiore (derived from “thousand flowers”, made with lots of very thin layers)
 
-    ### Part 5: Flowers in the Service of Science & Medicine
+### Part 5: Flowers in the Service of Science & Medicine
 
-    - Orchids → important subject of study for Darwin — all weird shapes derived from standard flower parts!
-        - Cross- vs self-pollination: cross-pollination → more seeds, fitter next generation (crazy idea at the time when livestock often inbred)
+- Orchids → important subject of study for Darwin — all weird shapes derived from standard flower parts!
+    - Cross- vs self-pollination: cross-pollination → more seeds, fitter next generation (crazy idea at the time when livestock often inbred)
         - Plants with flowers that did not favor self-pollination (ex. one flower doesn’t have both sex organs) = favored by natural selection
-    - Wind pollinated plants
-        - **Jojoba**— native to Sonoran desert, produce oil identical to sperm whale oil so great for shampoo! Flower design has aerodynamics to trap airflow in spirals around female flowers for up to minutes, increasing chance of pollen capture!
-    - Bee vision
-        - We see at much higher resolution than bees, but they are usually closer to object
-        - Studied foraging behavior using RFID-tagged bees
-    - Uncertain still how exactly olfaction works— lock & key mechanism of scent molecules and receptors? Perhaps vibrational resonance is involved in stimulating olfactory neurons? Can study with insects
-    - Honey → medicinal/healing properties: high sugar content and low pH make it antimicrobial; bees add enzymes such as those breaking sugar into hydrogen peroxide (antiseptic)
-        - Manuka honey (from tea tree, eucalyptus) → especially healing  proprieties, used to treat sterile wounds and burns
-    - Greenery and nature scenery → improves patient conditions in hospitals; even flowers in rooms!
-        - Concept practiced since ancient times, but not so much in modern hospitals
-        - Viewing flowers makes us smile
-        - True floral fragrances have general positive effect; research into whether actual molecules may act as anxiolytics (thought to do so in insects to slow them down when pollinating)
-    - Extinction threatens many flowering plants, often bc decline in pollinators
-        - Even if many undiscovered species
-        - What can we do? But local and organic flowers, pay fair prices...
+- Wind pollinated plants
+    - **Jojoba**— native to Sonoran desert, produce oil identical to sperm whale oil so great for shampoo! Flower design has aerodynamics to trap airflow in spirals around female flowers for up to minutes, increasing chance of pollen capture!
+- Bee vision
+    - We see at much higher resolution than bees, but they are usually closer to object
+    - Studied foraging behavior using RFID-tagged bees
+- Uncertain still how exactly olfaction works— lock & key mechanism of scent molecules and receptors? Perhaps vibrational resonance is involved in stimulating olfactory neurons? Can study with insects
+- Honey → medicinal/healing properties: high sugar content and low pH make it antimicrobial; bees add enzymes such as those breaking sugar into hydrogen peroxide (antiseptic)
+    - Manuka honey (from tea tree, eucalyptus) → especially healing  proprieties, used to treat sterile wounds and burns
+- Greenery and nature scenery → improves patient conditions in hospitals; even flowers in rooms!
+    - Concept practiced since ancient times, but not so much in modern hospitals
+    - Viewing flowers makes us smile
+    - True floral fragrances have general positive effect; research into whether actual molecules may act as anxiolytics (thought to do so in insects to slow them down when pollinating)
+- Extinction threatens many flowering plants, often bc decline in pollinators
+    - Even if many undiscovered species
+    - What can we do? But local and organic flowers, pay fair prices...
