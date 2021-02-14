@@ -3,7 +3,7 @@ layout: post
 title: Life in Code - Ellen Ullman
 subtitle: A Personal History of Technology
 categories: reading
-date: 2020-02-11
+date: 2021-02-11
 
 ---
 
