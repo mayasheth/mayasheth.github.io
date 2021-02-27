@@ -3,7 +3,7 @@ layout: post
 title: Recollections of My Nonexistence — Rebecca Solnit
 subtitle: 
 categories: reading
-date: 2020-02-17
+date: 2021-02-17
 
 ---
 
