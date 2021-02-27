@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recollections of My Nonexistence — Rebecca Solnit
+title: Recollections of My Nonexistence - Rebecca Solnit
 subtitle: 
 categories: reading
 date: 2021-02-17
