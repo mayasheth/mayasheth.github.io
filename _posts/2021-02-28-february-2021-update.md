@@ -42,7 +42,7 @@ date: 2021-02-28
     - Nothing spectacular, but regardless, an interesting framework to organize of our unique motivational drives, and how to harness them to improve our lives.
 - *[Superman’s Not Coming](https://mayasheth.github.io/2021/02/19/supermans-not-coming)* — Erin Brockovich
     - Another exposé on the terrifying state of water safety in our country, and the role of corporations in vehemently protecting their right to poison the environment. Brockovich writes about these issues with simple, direct stories supported by robust research and embedded with lessons on how we each can take action to create change. However, after reading *A Terrible Thing to Waste*, the complete omission of racial disparities in the effect of environmental pollution raises a red flag.
-- *[How To Be an Artist*](https://mayasheth.github.io/2021/02/23/how-to-be-an-artist) — Jerry Saltz
+- *[How To Be an Artist](https://mayasheth.github.io/2021/02/23/how-to-be-an-artist)* — Jerry Saltz
     - A lovely source of quotes, inspiration, and pithy wisdom.
 - *Midnight’s Children* — Salman Rushdie
     - A wild adventure woven with threads of space, time, cultures, history, imagination, and language. Somehow, a narrative emerges through the unexpectedly-relatable voice of the our hero, Salem Sinai — occasionally hard to follow, but so bizarre that it held my attention, at least for the first third. Not going to lie, [following along with the plot on SparkNotes](https://www.sparknotes.com/lit/midnightschildren/) was the only way I got through the rest.
