@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Inventory of Losses — Judith Schanlansky, transl. by Jackie Smith
+title: An Inventory of Losses - Judith Schanlansky, transl. by Jackie Smith
 subtitle: 
 categories: reading
 date: 2021-03-23
