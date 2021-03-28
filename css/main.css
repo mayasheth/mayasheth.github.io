@@ -46,7 +46,9 @@ ul.posts li {
 
 blockquote {
   display: block;
-  border-left:6px solid #d5d5d5 ;
+  border-left:3px solid #d5d5d5 ;
+  padding-left: 12px;
+
 
 }
 
