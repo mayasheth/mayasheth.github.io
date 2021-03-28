@@ -45,10 +45,24 @@ ul.posts li {
 }
 
 blockquote {
-  border-left: 3px solid #d5d5d5
-  margin: 1.1em -4em
-  padding: 1em 2em
-  position: relative
+  display: block;
+  border-width: 2px 0;
+  border-style: solid;
+  border-color: #eee;
+  padding: 1.5em 0 0.5em;
+  margin: 1.5em 0;
+  position: relative;
 }
-
+blockquote:before {
+  content: '\201C';
+  position: absolute;
+  top: 0em;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  width: 3rem;
+  height: 2rem;
+  color: #666;
+  text-align: center;
+}
 
