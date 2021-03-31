@@ -9,7 +9,7 @@ date: 2021-04-01
 
 Good morning!
 
-Today's edition: a monthly summary of books I've read, for your perusal. Any titles with links will take you to my notes!
+Today's edition: a monthly summary of books I've read, for your perusal. Titles with links will take you to my notes!
 
 Some clusters to note:
 
@@ -82,3 +82,5 @@ I'll leave you with some interesting links I've collected lately...
     - Lots of interesting facts about gardens, resources to find/buy heirloom seeds, and information on plant families. Never knew that potatoes were nightshades, too!
 - *28 Summers* — Elin Hilderbrand
     - Just for fun. Needed a break from reading about the disastrous state of the world. Kirkus Reviews got it right: “Print the bumper sticker: ‘I’d Rather Be Living in an Elin Hilderbrand Novel.’” Hilderbrand really does have a knack for building worlds just close enough to our own to feel possible, but sparkling with the alluring charm of sunshine, the sea, and (I hate that I’m saying this) true love. Makes me wonder if that’s what it’s really like for the Nantucketians out there.
+- *Piranesi* — Susanna Clarke
+    - A sorta creepy, mysterious, fantasy novel— unlike anything I’ve ever chosen to read, but it came intriguingly recommended as “more like a puzzle than a book.” Given my recent cryptic crossword hobby, I thought I’d give it a try, and was tentatively engaged enough to keep reading.
