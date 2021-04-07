@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animal, Vegetable, Junk - Mark Bittman
-subtitle: Subtitle
+subtitle: A History of Food, from Sustainable to Suicidal
 categories: reading
 date: 2021-04-07
 
