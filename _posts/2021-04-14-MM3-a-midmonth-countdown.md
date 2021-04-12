@@ -20,19 +20,19 @@ In this edition of Maya’s Musings, a plethora of links to things I stumbled ac
 
 ### Four images that caught my eye
 
-![](https://mayasheth.github.io/assets/crane.png)
+![](http://mayasheth.github.io/assets/crane.png)
 
-- Artist **Naoki Onogawa** makes tiny paper cranes, none more than a centimeter in diameter, and displays them on bonsai-esque tree forms. As a fellow crane-folder, I was intrigued by Onogawa's reflection on seeing a display of 1000 paper cranes at a school destroyed by the 2011 tsunami: “It was like witnessing the result of a desolate ritual where people channeled their unsettled feelings into these cranes. And here they exist, spirited with prayers that they would go back and forward to and from a world beyond here. I struggle to find the words to describe it, but I think that maybe the cranes that I fold now come from that place of solemn prayer.” (via [Colossal](https://www.thisiscolossal.com/2021/04/naoki-onogawa-paper-cranes/?mc_cid=42294ab297&mc_eid=73a175ec89))
+- Artist [Naoki Onogawa](https://www.instagram.com/naokionogawa/?hl=en) makes tiny paper cranes, none more than a centimeter in diameter, and displays them on bonsai-esque tree forms. As a fellow crane-folder, I was intrigued by Onogawa's reflection on seeing a display of 1000 paper cranes at a school destroyed by the 2011 tsunami: “It was like witnessing the result of a desolate ritual where people channeled their unsettled feelings into these cranes. And here they exist, spirited with prayers that they would go back and forward to and from a world beyond here. I struggle to find the words to describe it, but I think that maybe the cranes that I fold now come from that place of solemn prayer.” (via [Colossal](https://www.thisiscolossal.com/2021/04/naoki-onogawa-paper-cranes/?mc_cid=42294ab297&mc_eid=73a175ec89))
 
-![](mayasheth.github.io/assets/salt.png)
+![](http://mayasheth.github.io/assets/salt.png)
 
 - Another Japanese artist, Motoi Yamamoto, crafts stunningly intricate patterns like this one out of... salt. Why salt? "I like about the process is that I only use this natural medium for a fleeting moment in my work before returning it to its place in nature. this project enables me to experience how my life in this world is a mere moment in the long, long passage of time." It's like dominos, but so much... more (via [designboom](https://www.designboom.com/art/motoi-yamamoto-interview-memories-intricate-salt-arrangements-04-07-2021/))
 
-![](mayasheth.github.io/assets/map.png)
+![](http://mayasheth.github.io/assets/map.png)
 
 - The global deforestation footprint of the US from 2000-2015, courtesy of [a study out in Nature Ecology & Evolution](https://www.nature.com/articles/s41559-021-01417-z#MOESM1) that quantifies and maps worldwide forest loss attributed to individual countries, linking deforestation patterns to international trade and global supply chains. Check out [the supplementary materials](https://static-content.springer.com/esm/art%3A10.1038%2Fs41559-021-01417-z/MediaObjects/41559_2021_1417_MOESM1_ESM.pdf) for maps of other countries.
 
-![](mayasheth.github.io/assets/coral.jpeg)
+![](http://mayasheth.github.io/assets/coral.jpeg)
 
 - This page from William Saville-Kent‘a 1893 publication [The Great Barrier Reef of Australia: Its Products and Potentialities](https://archive.org/details/greatbarrierreef00kent/page/n14/mode/2up), the first popular science book on the underwater world. I love the artistic style of scientific illustrations from this era, and can’t help but wonder if we’d all appreciate the world around us a little more if we took the time to study it as closely as one must to create a piece like this. (via [Brain Pickings](https://www.brainpickings.org/2020/05/11/william-saville-kent-great-barrier-reef-prints/?mc_cid=d241c91191&mc_eid=01af1bb07e))
 
