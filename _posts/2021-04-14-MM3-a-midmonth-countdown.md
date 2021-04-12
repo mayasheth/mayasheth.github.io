@@ -6,15 +6,7 @@ date: 2021-04-14
 
 ---
 
-Hello!
-
-In today’s edition of Maya’s Musings, a plethora of links to things I stumbled across in the first weeks of the month. 
-
-As always, I welcome any comments, questions, recommendations, or feedback! 
-
-Hope you enjoy,
-
-Maya 
+In this edition of Maya’s Musings, a plethora of links to things I stumbled across in the first weeks of the month. As always, I welcome any comments, questions, recommendations, or feedback! 
 
 ### Five articles I'm glad I read
 
@@ -59,9 +51,9 @@ Maya
 
 **"Why" — Wendell Berry**
 
-> Why all the embarrassment\n
-about being happy?\n
-Sometimes I'm as happy\n
-as a sleeping dog,\n
-and for the same reasons,\n
+> Why all the embarrassment  
+about being happy?  
+Sometimes I'm as happy  
+as a sleeping dog,  
+and for the same reasons,  
 and for others.
