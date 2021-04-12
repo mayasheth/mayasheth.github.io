@@ -20,7 +20,7 @@ In this edition of Maya’s Musings, a plethora of links to things I stumbled ac
 
 ### Four images that caught my eye
 
-![](http://mayasheth.github.io/assets/crane.png)
+![](http://mayasheth.github.io/assets/cranes.png)
 
 - Artist [Naoki Onogawa](https://www.instagram.com/naokionogawa/?hl=en) makes tiny paper cranes, none more than a centimeter in diameter, and displays them on bonsai-esque tree forms. As a fellow crane-folder, I was intrigued by Onogawa's reflection on seeing a display of 1000 paper cranes at a school destroyed by the 2011 tsunami: “It was like witnessing the result of a desolate ritual where people channeled their unsettled feelings into these cranes. And here they exist, spirited with prayers that they would go back and forward to and from a world beyond here. I struggle to find the words to describe it, but I think that maybe the cranes that I fold now come from that place of solemn prayer.” (via [Colossal](https://www.thisiscolossal.com/2021/04/naoki-onogawa-paper-cranes/?mc_cid=42294ab297&mc_eid=73a175ec89))
 
