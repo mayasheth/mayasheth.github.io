@@ -99,6 +99,6 @@ Maya
     - So very excited to read this one! Walter Isaacson takes on the oft-told tale of the age of genomics, but as he tends to do, uses this focus to convey much broader themes of humanity. Zoning in on the role of Jennifer Doudna, Isaacson explores ideas ranging from the value of curiosity and competition in science to the ethics of being human, captivating his readers by showcasing the shockingly normal people involved in it all.
 - *Luster* — Raven Leilani
     - The last audiobook novel I listened to was so good, I had to try another. *Luster* was quite a different sort of story than *Migrations*, but it was sharp, witty, and entertaining; with a similar tinge of disturbing darkness; offering its own form of cultural criticism on race, class, and sex. Great narrator, as well— Ariel Blake. Gotta keep track of the good ones.
-    > “I believed, like a Catholic or a tortured artist, that the merit of a commitment correlates directly to the pain you endure in its pursuit.”
+   > “I believed, like a Catholic or a tortured artist, that the merit of a commitment correlates directly to the pain you endure in its pursuit.”
 - *Billionaire Wilderness* — Justin Farrell
     - A completely spontaneous choice off the “New” shelf at the library, but thought this topic could mesh well with some of my other readings on the abhorrent land practices of rich Americans. It turned out to be a far more nuanced, rigorously-researched work exploring the nexus of wealth, philanthropy, and conservation.
