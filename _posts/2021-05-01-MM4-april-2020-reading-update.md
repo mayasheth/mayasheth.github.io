@@ -102,3 +102,5 @@ Maya
    > “I believed, like a Catholic or a tortured artist, that the merit of a commitment correlates directly to the pain you endure in its pursuit.”
 - *[Billionaire Wilderness]*(https://mayasheth.github.io/2021/04/27/billionaire-wilderness) — Justin Farrell
     - A completely spontaneous choice off the “New” shelf at the library, but thought this topic could mesh well with some of my other readings on the abhorrent land practices of rich Americans. It turned out to be a far more nuanced, rigorously-researched work exploring the nexus of wealth, philanthropy, and conservation.
+- *Minor Detail* — Adania Shibli, transl. by Elisabeth Jaquette
+    - Originally published in Arabic, the translation of this striking novel about the Israeli-Palestinian conflict was nominated for the International  Booker Prize this year. The language is stark, tense and brutal at the beginning, before shifting to a more rolling, flowing narration. The style of writing contributed so much to the experience of reading that it’s makes me curious how much of that came from the original text versus the translation.
