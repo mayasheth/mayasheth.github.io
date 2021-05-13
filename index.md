@@ -3,7 +3,7 @@ layout: default
 title: Maya Sheth
 
 ---
-# hello.e
+# hello
 * sign up for my newsletter [here](https://airtable.com/shrbJMCacQzWPrCLY) to get sporadic musings & other fun things...
 
 ## who i am
