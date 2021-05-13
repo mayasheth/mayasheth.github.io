@@ -3,7 +3,8 @@ layout: default
 title: Maya Sheth
 
 ---
-# hello.
+# hello.e
+* sign up for my newsletter [here](https://airtable.com/shrbJMCacQzWPrCLY) to get sporadic musings & other fun things..
 
 ## who i am
 * 23 year old human
