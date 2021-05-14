@@ -9,7 +9,7 @@ date: 2021-05-11
 
 - The story of seven objects that serve important roles in the natural world and to humans, and that are not damaged or destroyed by their harvest
 
-## Eiderdown
+### Eiderdown
 
 - Icelandic industry
 - Valued for properties of extreme insulation and lightness
