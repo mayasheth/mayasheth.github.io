@@ -2,12 +2,15 @@
 layout: default
 title: recently
 ---
-<h1>{{ page.title }}</h1>
+# {{ page.title }}
+## (and/or listening to, watching, discussing, etc.)
+
+_musings, updates, and other words._
+
 <ul class="posts">
 	
-	{% for post in site.posts %}
+	{% for post in site.categories.review %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
 
