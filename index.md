@@ -15,6 +15,10 @@ title: Maya Sheth
 
 ---
 
+{% include quote.html words="the world is much better. the world is awful. the world can be much better. all three statements are true." source="max roser"%}
+
+---
+
 {% include quote.html words="progress in science depends on new techniques, new discoveries and new ideas, probably in that order." source="sydney brenner"%}
 
 ---
