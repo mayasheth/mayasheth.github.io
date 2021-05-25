@@ -2,7 +2,7 @@
 
 layout: post
 title: On beginnings & ends (MM No.1)
-categories: mm, review
+categories: MM, review
 date: 2021-03-22
 
 ---
