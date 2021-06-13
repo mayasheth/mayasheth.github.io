@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 things that made me pause (MM No. 7)
+title: 10 things that made me pause (MM No. 8)
 categories: review, MM
 date: 2021-06-13
 
