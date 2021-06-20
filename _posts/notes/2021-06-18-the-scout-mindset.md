@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Scount Mindset - Julia Galef
+title: The Scout Mindset - Julia Galef
 subtitle: Why Some People See Things Clearly and Others Don’t
 categories: reading
 date: 2021-06-18
