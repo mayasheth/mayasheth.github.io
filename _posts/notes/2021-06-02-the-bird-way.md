@@ -3,7 +3,7 @@ layout: post
 title: The Bird Way - Jennifer Ackerman
 subtitle: A New Look at How Birds Talk, Work, Play, Parent, and Think
 categories: reading
-date: 2021-06-15
+date: 2021-06-02
 
 ---
 
