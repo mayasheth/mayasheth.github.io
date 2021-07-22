@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Science of Can and Can't - Chaira Marletto
