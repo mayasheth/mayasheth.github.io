@@ -2,7 +2,7 @@
 layout: post
 title: Maya's non-random sampling of the recent Internet (No. 13)
 categories: MM
-date: 2021-08-06
+date: 2021-08-16
 
 ---
 
