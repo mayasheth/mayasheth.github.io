@@ -6,8 +6,7 @@ categories: reading
 date: 2021-10-26
 
 ---
-
-### Intro
+## Intro
 
 - **Central question**: How is intelligence “made,” and what traps can that create?
     - Warning of Clever Hans parable
@@ -23,7 +22,7 @@ date: 2021-10-26
 - Colonizing impulse and centralized power of AI “determines how the world is measured and defined while simultaneously denying that this is an inherently political activity.”
 - This book frames AI as an *extractive industry*
 
-### 1. Earth
+## 1. Earth
 
 **Mining for AI**
 
@@ -92,7 +91,7 @@ date: 2021-10-26
 > Recognition might be the wrong framework entirely when thinking about emotions because recognition assumes that emotional categories are givens, rather than emergent and relational.
 > 
 
-### 6. State
+## 6. State
 
 - DARPA → “The military priorities of command and control, automation, and surveillance profoundly shaped what AI was to become.”
 - No national system: “AI systems operate within a complex interwoven network of multinational and multilateral tools, infrastructures, and labor.”
