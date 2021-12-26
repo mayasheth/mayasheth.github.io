@@ -7,6 +7,7 @@ date: 2021-12-18
 
 ---
 
+
 ### Intro
 
 - Palm oil and palm kernel oil permeate over 50% consumer products in the grocery store— how did we get here, and what is the impact of this industry?
