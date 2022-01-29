@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Orwell's Roses - Rebecca Solnit
-subtitle: Subtitle
+subtitle: 
 categories: reading
 date: 2022-01-21
 
