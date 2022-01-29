@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to 2022! (MM No. 22)
-categories: recently, MM
+title: January 2022 reading updates (MM No. 22)
+categories: recently, MM, reading
 date: 2022-02-01
 
 ---
