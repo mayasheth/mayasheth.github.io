@@ -6,8 +6,6 @@ date: 2022-04-17
 
 ---
 
-# Mid-year semi-resolutions (No. 27)
-
 Greetings, friends, happy April, and happy Easter!
 
 It’s not the New Year, but I’ve got a couple new resolutions...
