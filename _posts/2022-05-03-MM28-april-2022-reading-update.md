@@ -1,12 +1,10 @@
 ---
 layout: post
-title: April 2022 reading update (MM No. 27)
+title: April 2022 reading update (MM No. 28)
 categories: recently, MM, reading
 date: 2022-05-03
 
 ---
-
-# April 2022 reading update (No. 28)
 
 Hey, friends!
 
