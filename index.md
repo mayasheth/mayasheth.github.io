@@ -7,7 +7,7 @@ title: Maya Sheth
 * sign up for my newsletter [here](https://airtable.com/shrbJMCacQzWPrCLY) to get sporadic musings & other fun things...
 
 ## who i am
-* 24 year old human
+* 25 year old human
 * asker of many questions (very skeptical)
 * big fan of dogs, sunshine, and coffee
 * also, science
