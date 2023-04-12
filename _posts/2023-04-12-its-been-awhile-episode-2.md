@@ -10,7 +10,7 @@ Hi friends!
 
 Happy 2023, happy spring! It’s been a wild few months in the life of Maya, but one of my goals for the year was to start sending out my musings again, so here goes. Below is a collection of links I’ve been adding to since August 2022, not including the 100 tabs I have open that I’m slowly curating… I hope you enjoy!
 
-Tell me what you’ve been up to! How is your 2023 going? Any adventures, books, puppies, or other interesting events? My highlights so far has been seeing the (Pacific) ocean a few weeks ago, and the beautiful superbloom of wildflowers California is witnessing after endless rain. 
+Tell me what you’ve been up to! How is your 2023 going? Any adventures, books, puppies, or other interesting events? My highlights so far has been seeing the (Pacific) ocean a few weeks ago and the beautiful superbloom of wildflowers California is witnessing after endless rain. 
 
 As always, thanks for reading, and I’d love to hear from you!
 
@@ -39,7 +39,6 @@ Maya
 
 ### Assorted
 
-- All the imagine [Wordle-adjacent games](https://likewordle.com/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-201) you can imagine :)
 - Another follow-up from *An Immense World*… how a [mix of convergence and divergence led to the evolution of electric organs](https://www.quantamagazine.org/electric-fish-genomes-reveal-how-evolution-repeats-itself-20220822/?mc_cid=8a1127e7a9&mc_eid=3f1e34114c) in different lineages of fish
 - [The art of planted aquariums](https://wepresent.wetransfer.com/stories/international-aquatic-plants-layout-contest?utm_source=substack&utm_medium=email)… the plethora of hobbies out there really is astounding.
 - An [alphabet of edible flowers](https://www.edibleflowersalphabet.com/asparagus-pea.html)
