@@ -6,8 +6,6 @@ date: 2023-04-12
 
 ---
 
-# New links
-
 Hi friends!
 
 Happy 2023, happy spring! It’s been a wild few months in the life of Maya, but one of my goals for the year was to start sending out my musings again, so here goes. Below is a collection of links I’ve been adding to since August 2022, not including the 100 tabs I have open that I’m slowly curating… I hope you enjoy!
