@@ -12,6 +12,7 @@ title: Maya Sheth
 * big fan of dogs, sunshine, and coffee
 * also, science
 * my [values](https://mayasheth.github.io/2020/11/20/values)
+* [smile-inducing, gratitude-provoking, and otherwise noteworthy moments](https://mayasheth.github.io/2023/04/15/things-that-make-me-smile)
 
 ---
 
