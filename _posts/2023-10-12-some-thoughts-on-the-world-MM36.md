@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Some thoughts on the world (MM No. 36)
+title: Some thoughts on the world (MM No. 36)
 categories: recently, MM
 date: 2023-10-12
 
