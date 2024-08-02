@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A propogating pod of personal orcas (MM No. 40)
+title: A propagating pod of personal orcas (MM No. 40)
 categories: recently, reading, MM
 date: 2024-08-02
 
