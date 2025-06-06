@@ -4,17 +4,11 @@ title: creations
 ---
 # creations
 
-## visual
-### art
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrmKEpfqjLSMv9mC?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+## art
 
-### design
+<iframe src="https://sulfuric-kumquat-542.notion.site/ebd/e224df38d8b142e9a6aa83e113a663f9?v=b2e27d60959a4db2907ce3b08a078efe" width="100%" height="600" frameborder="0" allowfullscreen />
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrVlUcvQDBJR3rpA?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+## research
 
-
-## writing
-### research
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr8yuvTXJVQLLLvA?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe src="https://sulfuric-kumquat-542.notion.site/ebd/e7f8978945c544bd82595f53a204102b?v=eec2c8cc0a8d44f09262a4b3dc5da4e5" width="100%" height="600" frameborder="0" allowfullscreen />
 
