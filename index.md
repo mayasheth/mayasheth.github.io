@@ -11,6 +11,7 @@ title: Maya Sheth
 * asker of many questions (very skeptical)
 * big fan of dogs, sunshine, and coffee
 * also, science
+* listen to the best most optimal focus soundtrack, a mix of chill music + air traffic control radio: https://chill-atc.streamlit.app/
 * my [values](https://mayasheth.github.io/2020/11/20/values)
 * [smile-inducing, gratitude-provoking, and otherwise noteworthy moments](https://mayasheth.github.io/2023/04/15/things-that-make-me-smile)
 
